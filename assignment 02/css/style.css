@@ -17,21 +17,15 @@ p{
     color: black;
 }
 
- 
-
 .job-title {
     color: orchid;
     font-weight: bold;
     font-size: 2em;
 }
 
- 
-
 a:link, a:visited {
     color: #fb6542;
 }
-
- 
 
 a:hover {
     text-decoration: none;
